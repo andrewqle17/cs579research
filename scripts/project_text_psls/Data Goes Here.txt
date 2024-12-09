@@ -1,0 +1,1 @@
+Insert the project PSL data, such as `1Password_passkey-rs.dat`. Make sure not to include any zip files, which are sometimes hidden as .dat files.
